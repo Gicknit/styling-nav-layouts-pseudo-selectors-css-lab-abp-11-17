@@ -84,6 +84,11 @@ div.questions a.btn{
   font-size: 20px;
 }
 
+div.questions a.btn:hover{
+  background-color: #0069d9;
+  border-color: #0069d9;
+}
+
 /*THE JUMBOTRON DIV*/
 .jumbotron p {
   font-size: 20px;
