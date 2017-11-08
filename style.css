@@ -75,6 +75,9 @@ div.questions p{
   font-size: 60px;
 }
 
+div.questions a.btn{
+  color: blue;
+}
 
 /*THE JUMBOTRON DIV*/
 .jumbotron p {
