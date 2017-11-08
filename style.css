@@ -38,7 +38,7 @@ nav a:hover{
 }
 
 /*THE MAIN HEADER LINK*/
-header#Icebreakers:hover{
+#header:hover{
   text-decoration: underline;
 }
 
