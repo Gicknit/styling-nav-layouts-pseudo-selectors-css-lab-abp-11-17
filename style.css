@@ -38,7 +38,7 @@ nav a:hover{
 }
 
 /*THE MAIN HEADER LINK*/
-h3#header:hover{
+#header a:hover{
   text-decoration: underline;
 }
 
